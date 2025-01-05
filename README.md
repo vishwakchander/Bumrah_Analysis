@@ -44,8 +44,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-repo/bumrah-analysis.git
-cd bumrah-analysis
+git clone https://github.com/your-repo/Bumrah_Analysis.git
+cd Bumrah_analysis
 
 Install required dependencies:
 
@@ -55,7 +55,7 @@ Usage
 
 Run the Python script to generate the visualizations:
 
-python bumrah_analysis.py
+python Bumrah_analysis.ipynb
 
 The script will output:
 
@@ -67,18 +67,18 @@ Overall insights on Bumrah's career statistics
 
 Sample Insights
 
-Total wickets across all formats: 443
+* Total wickets across all formats: 443
 
-Best economy rate format: Test (2.76)
+* Best economy rate format: Test (2.76)
 
-Top opposition for wickets: Australia (111 wickets)
+* Top opposition for wickets: Australia (111 wickets)
 
-Lowest bowling average opposition: Afghanistan (11.0)
+* Lowest bowling average opposition: Afghanistan (11.0)
 
 Future Enhancements
 
-Venue-wise performance analysis
+1. Venue-wise performance analysis
 
-Year-wise performance trend
+3. Year-wise performance trend
 
-Interactive dashboard using Streamlit
+3. Interactive dashboard using Streamlit
