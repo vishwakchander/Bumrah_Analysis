@@ -44,7 +44,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-repo/Bumrah_Analysis.git
+git clone https://github.com/vishwakchander/Bumrah_Analysis
 cd Bumrah_analysis
 
 Install required dependencies:
